@@ -1,2 +1,1 @@
-# dronebench
-Drone Bench is a Drone Deliverable Material Dashboard built using React and AI and ML concepts.
+# [DroneBench - Drone Deliverable Dashboard built with React - Free Drone Dashboard](https://mainedrones.org/dronebench)
