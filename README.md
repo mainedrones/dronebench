@@ -16,6 +16,51 @@ to continue as the solution is built out.   These including connecting the apps
 Maine Drone Society currently uses tother into a single unified platform for
 drone operations at the bench.
 
+
+Full Build Guide Volantext Ranger EX
+https://github.com/PX4/px4_user_guide/blob/master/en/frames_vtol/vtol_quadplane_volantex_ranger_ex_pixhawk.md
+
+Ground Control Software QGround Control
+https://docs.qgroundcontrol.com/en/getting_started/quick_start.html
+
+Artificial Intelligence software
+https://github.com/IntrospectiveSystems/xGraph
+
+Nodejs.org
+Downloads: https://nodejs.org/en/
+Getting Started: https://nodejs.org/en/docs/guides/getting-started-guide/
+
+AI Software
+https://github.com/IntrospectiveSystems/xGraph
+
+PX4 Start Up Guide
+https://docs.px4.io/en/assembly/quick_start_pixhawk4.html
+
+
+
+Volantex Ranger EX GetFpv
+https://www.getfpv.com/volantex-ranger-ex-757-3-pnp.html
+
+FrSky RX
+https://www.getfpv.com/frsky-x6r-16ch-receiver-sbus-smart-port.html
+
+
+Things Needed
+* Silicone Wire
+* Power Distribution Board
+* Batteries 
+** 11.1V/14.8V 3300mAh ~ 10000mAh LiPo
+* Better Soldering Iron with WIDE TIPS
+Lamination For Wings
+Clear Reinforced Tape
+Bullets
+Double Sided Tape
+HeatShink Tubings
+Extra PixHawk
+https://www.getfpv.com/holybro-px4-2-4-6-pixhawk-flight-controller-set-with-m8n-gps-pm-radio-telemetry-915mhz.html
+
+
+
 # Business - Google GSuite
 # IAAS - Google Cloud Platform
 # Ecommerce PAAS - Shopify
@@ -41,3 +86,6 @@ Photo / Video Geotagging
 
 Video and Audio Transcoding
 * Video collection and transcoding footage into streaming formats
+
+
+
